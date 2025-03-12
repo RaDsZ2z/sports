@@ -1,7 +1,8 @@
-date,卧推(kg*12x3),硬拉(kg*12x3),有氧描述,有氧时长(min),深蹲(kg*12x3),PRONE LEG CURL(kg*6x3)
-2025/02/28,12,15,放松慢跑,15,None,None
-2025/03/01,None,20,慢跑,30,None,None
-2025/03/02,20,None,慢跑,17,30,None
-2025/03/04,20,30,慢跑,20,None,None
-2025/03/05,None,30,慢跑,21,30,None
-2025/03/10,None,30,中速跑,22,None,30
+date,卧推(kg*12x3),硬拉(kg*12x3),有氧描述,有氧时长(min),深蹲(kg*12x3),PRONE LEG CURL(kg*6x3),斜板推举(kg*12x3)
+2025/02/28,12,15,放松慢跑,15,None,None,None
+2025/03/01,None,20,慢跑,30,None,None,None
+2025/03/02,20,None,慢跑,17,30,None,None
+2025/03/04,20,30,慢跑,20,None,None,None
+2025/03/05,None,30,慢跑,21,30,None,None
+2025/03/10,None,30,中速跑,22,None,30,None
+2025/03/12,,30,,,,,25
