@@ -1,8 +1,10 @@
-# 1.something
+# 1.readme
 [初识硬拉](https://zhuanlan.zhihu.com/p/389072375)  
-[madcow](https://zhuanlan.zhihu.com/p/443416121)
+[madcow](https://zhuanlan.zhihu.com/p/443416121)  
 
-# 2.daily
+[运动数据记录](https://github.com/RaDsZ2z/sports/blob/main/exercises_record.ipynb)
+
+# 2.日记
 ## 2025.03.17
 
 硬拉涨了10kg，是因为我发现之前都没算杆的重量...
